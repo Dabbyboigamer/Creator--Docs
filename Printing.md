@@ -1,6 +1,6 @@
 #Home Page:
 
-(Home)[https://dabbyboigamer.github.io/Creator--Docs/]
+**[Home](https://dabbyboigamer.github.io/Creator--Docs/)**
 
 ---
 # PRINTING:
